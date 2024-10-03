@@ -82,3 +82,6 @@ plt.show()
 ### Display the result of Hough transform
 
 ![Screenshot 2024-10-03 160853](https://github.com/user-attachments/assets/63bc315b-ea6c-4723-8b84-c4902916b340)
+
+## Result
+Thus,Edge-Linking-using-Hough-Transform completed successfully.
